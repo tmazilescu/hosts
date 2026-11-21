@@ -20,3 +20,5 @@ cat /etc/hosts | while read ip name etc; do
 
     verifica_ip "$name" "$ip" "8.8.8.8"
 done
+
+echo "Student A: Teo"
